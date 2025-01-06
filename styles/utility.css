@@ -55,10 +55,10 @@ h1, h2, h3{
   grid-auto-flow: column;
 }
 
-img{
-  max-width: 100%;
+.grid-cols-2{
+  grid-template-columns: 1fr 1fr;;
 }
 
-main{
-  margin-top: 40px;
+.gap-16{
+  gap: 16px;
 }
