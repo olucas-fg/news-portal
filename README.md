@@ -1,22 +1,26 @@
-News Portal 📰
-A simple, responsive news portal designed using HTML and CSS. This project displays various news articles in a clean and organized layout, making it easy to browse through different news categories.
+# News Portal 📰
 
-Tecnologias Usadas 🛠️
-HTML
-CSS
-Features ✨
-📱 Responsive design that adapts to different screen sizes.
-📰 Sections for various news categories.
-🎨 Clean and simple styling for an intuitive user interface.
-Como Clonar e Rodar 🚀
-Clone o repositório:
-bash
-Copiar
-Editar
-git clone https://github.com/olucas-fg/news-portal.git
-Navegue até a pasta do projeto:
-bash
-Copiar
-Editar
-cd news-portal
-Abra o arquivo index.html em um navegador de sua escolha para visualizar o portal de notícias.
+A simple, responsive news portal built with HTML and CSS. This project showcases various news articles in an organized and user-friendly layout.
+
+## Technologies Used 🛠️
+
+- HTML
+- CSS
+
+## Features ✨
+
+- 📱 Responsive design for different screen sizes.
+- 📰 Categories for different news topics.
+- 🎨 Clean and simple styling for better user experience.
+
+## How to Clone and Run 🚀
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/olucas-fg/news-portal.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd news-portal
+   ```
+3. Open the `index.html` file in any browser to view the news portal.
